@@ -80,5 +80,6 @@ static void printNumbersDigits2(int number)
       }
         Console.WriteLine(number);
     }
+    
   
 printNumbersDigits2(270);
